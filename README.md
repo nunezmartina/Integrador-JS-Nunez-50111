@@ -3,11 +3,13 @@ Permite la gestion de productos de comida, filtrarlos por categorías y cuenta c
 
 -Ejecución del proyecto
 1) Clonar el repositorio:
-cd Integrador-JS-Nunez-50111
+-cd Integrador-JS-Nunez-50111
+-git clone https://github.com/nunezmartina/Integrador-JS-Nunez-50111.git
 
-git clone https://github.com/nunezmartina/Integrador-JS-Nunez-50111.git
-3) Instalar dependencias de Node.js:
-npm install
-4) Correr el proyecto en modo de desarrollo:
-npm run dev
-5) Abrir el enlace mostrado en consola en el navegador
+2) Instalar dependencias de Node.js:
+-npm install
+
+3) Correr el proyecto en modo de desarrollo:
+-npm run dev
+
+4) Abrir el enlace mostrado en consola en el navegador
